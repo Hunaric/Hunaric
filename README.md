@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hunaric</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Hugues FANGNON</h1>
+<h3 align="center">I'm passionate about data and web technologies</h3>
 
-- 🔭 I’m currently studding how to build web api with python through housing app called [Airbnb clone](https://github.com/Hunaric/housing-app-backend.git)
+- 🔭 Take a look at the work my teammate and I did for our graduation project: [Projet de soutenance](git@github.com:Hunaric/PyBot.Soutenance.2024.git)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working on **Machine Learning**
 
 - 💬 Ask me about **Angular and Symfony**
 
 - 📫 How to reach me **nathanaelfangnon@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I like to think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
