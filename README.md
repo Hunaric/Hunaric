@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugues FANGNON</h1>
 <h3 align="center">I'm passionate about data and web technologies</h3>
 
-- 🔭 Take a look at the work my teammate and I did for our graduation project: [Projet de soutenance](git@github.com:Hunaric/PyBot.Soutenance.2024.git)
+- 🔭 Take a look at the work my teammate and I did for our graduation project: [Projet de soutenance](https://github.com/Hunaric/PyBot.Soutenance.2024)
 
 - 🌱 I’m currently working on **Machine Learning**
 
