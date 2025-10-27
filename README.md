@@ -12,15 +12,12 @@
 - ⚡ Fun fact **I like to think I'm funny**
 
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/hugues_fn" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="hugues_fn" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/hugues-fangnon-759a3a224/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="Hugues Fangnon" height="30" width="40" />
-  </a>
-</p>
+### Connect with me:
+
+- [Twitter](https://twitter.com/hugues_fn)
+- [LinkedIn](https://www.linkedin.com/in/hugues-fangnon-759a3a224/)
+- [GitHub](https://github.com/Hunaric)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
