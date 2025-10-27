@@ -11,7 +11,16 @@
 
 - ⚡ Fun fact **I like to think I'm funny**
 
-  
+### 🌐 My Projects
+
+Here are some of the web projects I've worked on:
+
+- [Landing Page](https://landing-page-by-hunaric.vercel.app/) – A clean and responsive landing page.
+- [Mojito App](https://hunaric-mojito.netlify.app/) – A small web application demonstrating interactive UI features.
+- [Traveling Website](https://hunaric.github.io/traveling-website/) – A personal project showcasing travel destinations.
+- [Housing App](https://housing-app-349h-baedxo6v6-hunarics-projects.vercel.app/) – ⚠️ The database is empty and the project is not regularly maintained.
+- [Photographer Page](https://photographer-page-alpha.vercel.app/) – A portfolio website for photographers.
+
 ### Connect with me:
 
 - [Twitter](https://twitter.com/hugues_fn)
