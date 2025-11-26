@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **Machine Learning**
 
-- 💬 Ask me about **Angular and Symfony**
+- 💬 Ask me about **Angular, FastAPI and Symfony**
 
 - 📫 How to reach me **nathanaelfangnon@gmail.com**
 
